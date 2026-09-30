@@ -1,0 +1,29 @@
+C:\Users\Lenovo\source\repos\RobotFactorySystem\RobotFactorySystem\bin\Debug\net10.0\RobotFactorySystem.exe
+C:\Users\Lenovo\source\repos\RobotFactorySystem\RobotFactorySystem\bin\Debug\net10.0\RobotFactorySystem.deps.json
+C:\Users\Lenovo\source\repos\RobotFactorySystem\RobotFactorySystem\bin\Debug\net10.0\RobotFactorySystem.runtimeconfig.json
+C:\Users\Lenovo\source\repos\RobotFactorySystem\RobotFactorySystem\bin\Debug\net10.0\RobotFactorySystem.dll
+C:\Users\Lenovo\source\repos\RobotFactorySystem\RobotFactorySystem\bin\Debug\net10.0\RobotFactorySystem.pdb
+C:\Users\Lenovo\source\repos\RobotFactorySystem\RobotFactorySystem\obj\Debug\net10.0\RobotFactorySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\RobotFactorySystem\RobotFactorySystem\obj\Debug\net10.0\RobotFactorySystem.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\RobotFactorySystem\RobotFactorySystem\obj\Debug\net10.0\RobotFactorySystem.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\RobotFactorySystem\RobotFactorySystem\obj\Debug\net10.0\RobotFactorySystem.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\RobotFactorySystem\RobotFactorySystem\obj\Debug\net10.0\RobotFactorySystem.dll
+C:\Users\Lenovo\source\repos\RobotFactorySystem\RobotFactorySystem\obj\Debug\net10.0\refint\RobotFactorySystem.dll
+C:\Users\Lenovo\source\repos\RobotFactorySystem\RobotFactorySystem\obj\Debug\net10.0\RobotFactorySystem.pdb
+C:\Users\Lenovo\source\repos\RobotFactorySystem\RobotFactorySystem\obj\Debug\net10.0\RobotFactorySystem.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\RobotFactorySystem\RobotFactorySystem\obj\Debug\net10.0\ref\RobotFactorySystem.dll
+C:\Users\My PC\Desktop\RobotFactorySystem\RobotFactorySystem\RobotFactorySystem\bin\Debug\net10.0\RobotFactorySystem.exe
+C:\Users\My PC\Desktop\RobotFactorySystem\RobotFactorySystem\RobotFactorySystem\bin\Debug\net10.0\RobotFactorySystem.deps.json
+C:\Users\My PC\Desktop\RobotFactorySystem\RobotFactorySystem\RobotFactorySystem\bin\Debug\net10.0\RobotFactorySystem.runtimeconfig.json
+C:\Users\My PC\Desktop\RobotFactorySystem\RobotFactorySystem\RobotFactorySystem\bin\Debug\net10.0\RobotFactorySystem.dll
+C:\Users\My PC\Desktop\RobotFactorySystem\RobotFactorySystem\RobotFactorySystem\bin\Debug\net10.0\RobotFactorySystem.pdb
+C:\Users\My PC\Desktop\RobotFactorySystem\RobotFactorySystem\RobotFactorySystem\obj\Debug\net10.0\RobotFactorySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My PC\Desktop\RobotFactorySystem\RobotFactorySystem\RobotFactorySystem\obj\Debug\net10.0\RobotFactorySystem.AssemblyInfoInputs.cache
+C:\Users\My PC\Desktop\RobotFactorySystem\RobotFactorySystem\RobotFactorySystem\obj\Debug\net10.0\RobotFactorySystem.AssemblyInfo.cs
+C:\Users\My PC\Desktop\RobotFactorySystem\RobotFactorySystem\RobotFactorySystem\obj\Debug\net10.0\RobotFactorySystem.csproj.CoreCompileInputs.cache
+C:\Users\My PC\Desktop\RobotFactorySystem\RobotFactorySystem\RobotFactorySystem\obj\Debug\net10.0\RobotFactorySystem.dll
+C:\Users\My PC\Desktop\RobotFactorySystem\RobotFactorySystem\RobotFactorySystem\obj\Debug\net10.0\refint\RobotFactorySystem.dll
+C:\Users\My PC\Desktop\RobotFactorySystem\RobotFactorySystem\RobotFactorySystem\obj\Debug\net10.0\RobotFactorySystem.pdb
+C:\Users\My PC\Desktop\RobotFactorySystem\RobotFactorySystem\RobotFactorySystem\obj\Debug\net10.0\RobotFactorySystem.genruntimeconfig.cache
+C:\Users\My PC\Desktop\RobotFactorySystem\RobotFactorySystem\RobotFactorySystem\obj\Debug\net10.0\ref\RobotFactorySystem.dll
+C:\Users\My PC\Desktop\RobotFactorySystem\RobotFactorySystem\RobotFactorySystem\obj\Debug\net10.0\RobotFac.E44B96EB.Up2Date
